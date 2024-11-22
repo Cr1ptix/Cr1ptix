@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Cr1ptix
+- 👀 I’m your average (slightly autistic) student
+- 🌱 I’m currently learning python
+- ⚡ Fun fact: I like cars
